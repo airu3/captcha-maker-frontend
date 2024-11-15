@@ -9,8 +9,7 @@ Captcha Maker Frontend は、ユーザーがカスタムキャプチャを作成
 以下の手順に従ってプロジェクトをインストールしてください。
 
 1. リポジトリをクローンします。
-   test
-   test
-   test
-   test
-   test
+
+```bash
+	test
+```
